@@ -1,3 +1,4 @@
+package Practice.Kypn;
 import java.util.*;
 
 class ip {

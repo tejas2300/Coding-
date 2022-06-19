@@ -1,3 +1,4 @@
+package Practice.Kypn;
 // package com.jap.weightedaveragecalculator;
 
 import java.util.Scanner;

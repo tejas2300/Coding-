@@ -1,3 +1,4 @@
+package Practice.Kypn;
 // package com.jap.productmanagement;
 
 import java.util.Scanner;
